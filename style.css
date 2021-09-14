@@ -35,6 +35,11 @@ button{
     cursor: pointer;
 }
 
+#piscar{
+    background-color: green;
+    color: white;
+}
+
 footer{
     height: 50px;
     justify-content: center;
